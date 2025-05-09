@@ -1,10 +1,8 @@
-<span align="center"># custom-vscode</span>
+<div align="center">custom-vscode</div>
 
 ---
 
 # how to custom vscode
-
----
 
 <ul>
     <li>1. Install Extension Custom ui style</li>
